@@ -1,6 +1,8 @@
 # Super Trunfo - Projeto React
+<img src="https://github.com/rolwane/super-trunfo/blob/main/src/images/project-preview.gif" width="100%" />
+Aplicação desenvolvida em React com manipulação de estados em classes. Esse aplicação simula um jogo de Super Trunfo.
 
-Aplicação desenvolvida em React com manipulação de estados em classes. Esse aplicação simula um jogo de Super Trunfo. Você pode criação, preview, pesquisa e exclusão das cartas do baralho, porém a funcionalidade de jogar ainda não foi implementada.
+Você pode criação, preview, pesquisa e exclusão das cartas do baralho, porém a funcionalidade de jogar ainda não foi implementada.
 
 Na etapa de montagem das cartas você pode ver um preview em tempo real de como sua carta está ficando.
 Para adicionar uma imagem à sua carta, basta coloca o link de uma imagem que esteja online.
